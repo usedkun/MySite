@@ -52,14 +52,13 @@ header{
 	height: 650px;
 	text-align: center;
 	color: #FAFAFA;
-	background-image: url("/img/mv.png");
+	background-image: url(../img/mv.png);
 	background-size: cover;
 	background-position: center;
 }
 
 .mv-title{
 	padding-top: 200px;
-	font-family: 'Raleway', sans-serif;
 	font-size: 64px;
 }
 
@@ -116,27 +115,27 @@ header{
 }
 
 .bg-1{
-	background-image: url(/img/sketch.jpg);
+	background-image: url(../img/sketch.jpg);
 }
 
 .bg-2{
-	background-image: url(/img/talk.jpg);
+	background-image: url(../img/talk.jpg);
 }
 
 .bg-3{
-	background-image: url(/img/webcamp-mother.png);
+	background-image: url(../img/webcamp-mother.png);
 }
 
 .bg-4{
-	background-image: url(/img/webcamp.png);
+	background-image: url(../img/webcamp.png);
 }
 
 .bg-5{
-	background-image: url(/img/websuku.png);
+	background-image: url(../img/websuku.png);
 }
 
 .bg-6{
-	background-image: url(/img/write.jpg);
+	background-image: url(../img/write.jpg);
 }
 #feature{
 	background-size: cover;
@@ -193,7 +192,7 @@ header{
 	height: 250px;
 	margin: 0 auto;
 	border-radius: 50%;
-	background-image: url(/img/my-icon.jpg);
+	background-image: url(../img/my-icon.jpg);
 }
 
 .discription-title{
